@@ -125,6 +125,7 @@ This option is suitable for experimenting with the circuit, building a single un
 Additional materials include insulated hookup wire and soldering supplies.
 
 Refer to the [electrical schematic](hardware/documentation/DryContactSensor_schematic.pdf) when assembling the circuit.
+[![Schematics](images/v1.1/Schematic_v1.1.png)](images/v1.1/Schematic_v1.1.png)
 
 **Important:** Maintain adequate physical separation between the isolated dry-contact circuitry and the ESP32-side circuitry. Avoid creating unintended electrical connections across the isolation boundary.
 
